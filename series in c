@@ -1,7 +1,8 @@
 /* 
    Github:
-   Author:
-   Description:    */
+   kushal singh rathore :
+   Description: printing the fibonacci which is 0 1 1 2 3 5 
+   1 is sum of privious two digits and than 2 is sum of 1 and 1 and so on*/
 #include<stdio.h>
 int main()
 {
